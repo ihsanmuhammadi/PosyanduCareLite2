@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PosyanduCare</string>
+    <string name="list_kosong">Data is empty</string>
+    <string name="tambah_anak">Add Data</string>
+    <string name="nama">Name</string>
+    <string name="gender1">Boy</string>
+    <string name="gender2">Girl</string>
+    <string name="kembali">Back</string>
+    <string name="simpan">Save</string>
+    <string name="edit_anak">Edit Data</string>
+    <string name="invalid">Invalid input!</string>
+    <string name="lainnya">Another option</string>
+    <string name="hapus">Delete Data</string>
+    <string name="pesan_hapus">Delete this data?</string>
+    <string name="tombol_hapus">Delete</string>
+    <string name="tombol_batal">Cancel</string>
+    <string name="list">List view</string>
+    <string name="grid">Grid view</string>
+    <string name="copyright">PosyanduCare is an Android-based application aimed at assisting health services in Posyandu. The feature of this application is the calculation of childrens height and child data management. Users can create, view, edit, and delete child data according to their preferences.\n\nThis application is created to fulfill the assessment task of the Mobile Programming course. \n\nCopyright @ 2024 Ihsan Muhammad Iqbal\nAll rights reserved.</string>
+    <string name="logo">Posyandu Logo</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="intro">Lets calculate our childs height to measure whether their height is tall, normal, or short (stunting)! The calculation results refer to the standards set by the World Health Organization (WHO).</string>
+    <string name="tb_anak">Childs height</string>
+    <string name="usia_anak">Childs age (0-5 years)</string>
+    <string name="satuan_tinggi">cm</string>
+    <string name="satuan_waktu">year</string>
+    <string name="hitung">Count</string>
+    <string name="reset">Reset</string>
+    <string name="pendek">Short</string>
+    <string name="tinggi">Tall</string>
+    <string name="normal">Normal</string>
+    <string name="intro_hasil">The child is categorized as:</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Childs data\nHeight: %1$s cm\nAge: %2$s years old\nGender: %3$s\n---------------\nThe child is categorized as %4$s</string>
+    <string name="hitung_aplikasi">Calculate Child Growth</string>
+    <string name="usia_template">%1$s years old</string>
+</resources>

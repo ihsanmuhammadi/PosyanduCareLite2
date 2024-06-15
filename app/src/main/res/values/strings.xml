@@ -34,4 +34,17 @@
     <string name="bagikan_template">Childs data\nHeight: %1$s cm\nAge: %2$s years old\nGender: %3$s\n---------------\nThe child is categorized as %4$s</string>
     <string name="hitung_aplikasi">Calculate Child Growth</string>
     <string name="usia_template">%1$s years old</string>
+    <string name="data_anak">Child\'s Data</string>
+    <string name="gambar">%1$s Picture</string>
+    <string name="profil">Profile</string>
+    <string name="tutup">Close</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_kegiatan">Add activity</string>
+    <string name="deskripsi">Description</string>
+    <string name="batal">Cancel</string>
+    <string name="error">Failed load data.. Error connection.</string>
+    <string name="try_again">Try again</string>
+    <string name="konfirmasi_hapus">Are you sure you want to delete this file?</string>
+    <string name="login_dibutuhkan">Login first to add data!</string>
+    <string name="judul_main">Posyandu Activities</string>
 </resources>

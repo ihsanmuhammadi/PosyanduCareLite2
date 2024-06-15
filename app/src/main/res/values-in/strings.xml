@@ -35,4 +35,17 @@
     <string name="bagikan_template">Data anak\nTinggi badan: %1$s cm\nUsia: %2$s tahun\nJenis Kelamin: %3$s\n---------------\nAnak bapak/ibu termasuk ke kategori %4$s</string>
     <string name="hitung_aplikasi">Hitung Perkembangan Anak</string>
     <string name="usia_template">%1$s tahun</string>
+    <string name="data_anak">Data Anak</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_kegiatan">Tambah Kegiatan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="batal">Batal</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="konfirmasi_hapus">Apakah anda yakin ingin menghapus gambar anda?</string>
+    <string name="login_dibutuhkan">Login terlebih dahulu untuk menambahkan data!</string>
+    <string name="judul_main">Aktivitas Posyandu</string>
 </resources>

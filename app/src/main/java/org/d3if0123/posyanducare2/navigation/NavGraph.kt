@@ -9,6 +9,7 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import org.d3if0123.posyanducare2.ui.screen.AboutScreen
 import org.d3if0123.posyanducare2.ui.screen.CalculateScreen
+import org.d3if0123.posyanducare2.ui.screen.ChildScreen
 import org.d3if0123.posyanducare2.ui.screen.DetailScreen
 import org.d3if0123.posyanducare2.ui.screen.KEY_ID_ANAK
 import org.d3if0123.posyanducare2.ui.screen.MainScreen
@@ -39,6 +40,9 @@ fun SetupNavGraph(navController: NavHostController = rememberNavController()) {
         ) { navBackStackEntry ->
             val id = navBackStackEntry.arguments?.getLong(KEY_ID_ANAK)
             DetailScreen(navController, id)
+        }
+        composable(route = Screen.Child.route) {
+            ChildScreen(navController)
         }
     }
 }
